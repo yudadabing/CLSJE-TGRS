@@ -5,7 +5,7 @@
 - [test](#test)
 - [test_images](#test_images)
 - [Citation](#Citation)
-- [Note](#Note)
+- [Acknowledgement](#Acknowledgement)
 
 ## Background
 
