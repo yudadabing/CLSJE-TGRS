@@ -37,6 +37,6 @@ IEEE Transactions on Cybernetics, 2021.
 ## Note
 
 
-## Contact
+## Acknowledgement
  
 This code is built on [SSDGL](https://github.com/dengweihuan/SSDGL "悬停显示") and [FPGA]( https://github.com/Z-Zheng/FreeNet "悬停显示") (PyTorch). We thank the authors for sharing their codes of Freenet.
