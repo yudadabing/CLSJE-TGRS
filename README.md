@@ -39,4 +39,4 @@ IEEE Transactions on Cybernetics, 2021.
 
 ## Contact
  
-This code is built on https://github.com/Z-Zheng/FreeNet (PyTorch). We thank the authors for sharing their codes of Freenet.
+This code is built on https://github.com/dengweihuan/SSDGL and https://github.com/Z-Zheng/FreeNet (PyTorch). We thank the authors for sharing their codes of Freenet.
