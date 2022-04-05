@@ -12,15 +12,15 @@
 Hyperspectral Image Classification
 
 ## test
-#1 install simpleCV
-pip install --upgrade git+https://github.com/Z-Zheng/SimpleCV.git
+install simpleCV
+
+```sh
+$ pip install --upgrade git+https://github.com/Z-Zheng/SimpleCV.git
+```
 
 ```sh
 $ python train.py
 ```
-
-## test_images
-
 
 
 
