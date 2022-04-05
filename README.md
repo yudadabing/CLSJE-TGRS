@@ -12,8 +12,8 @@
 Hyperspectral Image Classification
 
 ## test
-
-
+#1 install simpleCV
+pip install --upgrade git+https://github.com/Z-Zheng/SimpleCV.git
 
 ```sh
 $ python train.py
@@ -34,7 +34,6 @@ IEEE Transactions on Geoscience and Remote Sensing, 2020, 58(8): 5612-5626.
 IEEE Transactions on Cybernetics, 2021.
 
 
-## Note
 
 
 ## Acknowledgement
