@@ -1,4 +1,4 @@
-# A Cross-level Spectral-Spatial Joint EncodeLearning Framework for Imbalanced Hyperspectral Image Classification
+# A Cross-level Spectral-Spatial Joint Encoding Learning Framework for Imbalanced Hyperspectral Image Classification
 ## Table of Contents
 
 - [Background](#background)
