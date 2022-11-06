@@ -558,31 +558,4 @@ class RCAB_last2(nn.Module):
 
 
 
-##passa
-
-def get_pad_layer(pad_type):
-    if(pad_type in ['refl','reflect']):
-        PadLayer = nn.ReflectionPad2d
-    elif(pad_type in ['repl','replicate']):
-        PadLayer = nn.ReplicationPad2d
-    elif(pad_type=='zero'):
-        PadLayer = nn.ZeroPad2d
-    else:
-        print('Pad type [%s] not recognized'%pad_type)
-    return PadLayer
-
-def conv_identify(weight, bias):
-    weight.data.zero_()
-    if bias is not None:
-        bias.data.zero_()
-    o, i, h, w = weight.shape
-    y = h//2
-    x = w//2
-    for p in range(i):
-        for q in range(o):
-            if p == q:
-                weight.data[q, p, :, :] = 1.0
-
-
-
 
