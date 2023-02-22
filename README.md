@@ -1,5 +1,5 @@
 # A Cross-level Spectral-Spatial Joint Encoding Learning Framework for Imbalanced Hyperspectral Image Classification
-## Table of Contents
+## Table of Contents (TGRS)
 
 - [Background](#background)
 - [test](#test)
