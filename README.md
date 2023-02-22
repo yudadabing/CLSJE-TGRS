@@ -1,4 +1,6 @@
-# A Cross-level Spectral-Spatial Joint Encoding Learning Framework for Imbalanced Hyperspectral Image Classification (IEEE Transactions on Geoscience and Remote Sensing)
+# A Cross-level Spectral-Spatial Joint Encoding Learning Framework for Imbalanced Hyperspectral Image Classification 
+
+# (Accpetd by IEEE Transactions on Geoscience and Remote Sensing)
 
 
 ## Table of Contents 
